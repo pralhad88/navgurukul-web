@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79041b37d451336c3941c3bf75198f70",
+    "revision": "0a2abf922d20a7e7f0097ee0fe128ca3",
     "url": "/navgurukul-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/navgurukul-web/static/css/2.036d53b0.chunk.css"
   },
   {
-    "revision": "d9c3ab79b61fb44ae414",
+    "revision": "c33ff0eb557ce2e7b680",
     "url": "/navgurukul-web/static/css/main.b9f818cb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/navgurukul-web/static/js/2.acde16eb.chunk.js"
   },
   {
-    "revision": "d9c3ab79b61fb44ae414",
-    "url": "/navgurukul-web/static/js/main.30cacac6.chunk.js"
+    "revision": "c33ff0eb557ce2e7b680",
+    "url": "/navgurukul-web/static/js/main.4a129b09.chunk.js"
   },
   {
     "revision": "719e8df54c1183fbf40f",
