@@ -29,7 +29,6 @@ class Teams extends Component {
                                                 <MDBMask overlay="white-slight" />
                                                 </a>
                                             </MDBView>
-
                                             <a href={Teamdata.linkedin} target="_blank" rel="noopener" ><button style={{width:"100%",margin:"0px",backgroundColor:"#45526e",color:"white"}} className="btn" width="100%"><i className="fab fa-linkedin-in pr-1"></i> Linkedin</button></a>
                                             <div style={{padding:"1rem"}}>
                                                 <a  href={Teamdata.linkedin}><h5 className="font-weight-bold mb-3">{Teamdata.name}</h5></a>
