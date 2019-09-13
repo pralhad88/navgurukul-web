@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/navgurukul-web/static/css/main.b9f818cb.chunk.css",
-    "main.js": "/navgurukul-web/static/js/main.30cacac6.chunk.js",
-    "main.js.map": "/navgurukul-web/static/js/main.30cacac6.chunk.js.map",
+    "main.css": "/navgurukul-web/static/css/main.f0bb384d.chunk.css",
+    "main.js": "/navgurukul-web/static/js/main.1cfb200c.chunk.js",
+    "main.js.map": "/navgurukul-web/static/js/main.1cfb200c.chunk.js.map",
     "runtime~main.js": "/navgurukul-web/static/js/runtime~main.a786e66d.js",
     "runtime~main.js.map": "/navgurukul-web/static/js/runtime~main.a786e66d.js.map",
     "static/css/2.036d53b0.chunk.css": "/navgurukul-web/static/css/2.036d53b0.chunk.css",
-    "static/js/2.acde16eb.chunk.js": "/navgurukul-web/static/js/2.acde16eb.chunk.js",
-    "static/js/2.acde16eb.chunk.js.map": "/navgurukul-web/static/js/2.acde16eb.chunk.js.map",
+    "static/js/2.a82ed6e9.chunk.js": "/navgurukul-web/static/js/2.a82ed6e9.chunk.js",
+    "static/js/2.a82ed6e9.chunk.js.map": "/navgurukul-web/static/js/2.a82ed6e9.chunk.js.map",
     "index.html": "/navgurukul-web/index.html",
-    "precache-manifest.d5eec92d9084c2512f7f0a0be108145e.js": "/navgurukul-web/precache-manifest.d5eec92d9084c2512f7f0a0be108145e.js",
+    "precache-manifest.78c4544790fd4347a18a28cf0b084835.js": "/navgurukul-web/precache-manifest.78c4544790fd4347a18a28cf0b084835.js",
     "service-worker.js": "/navgurukul-web/service-worker.js",
     "static/css/2.036d53b0.chunk.css.map": "/navgurukul-web/static/css/2.036d53b0.chunk.css.map",
-    "static/css/main.b9f818cb.chunk.css.map": "/navgurukul-web/static/css/main.b9f818cb.chunk.css.map",
+    "static/css/main.f0bb384d.chunk.css.map": "/navgurukul-web/static/css/main.f0bb384d.chunk.css.map",
     "static/media/mdb.css": "/navgurukul-web/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/navgurukul-web/static/media/fa-solid-900.d6d8d5da.woff2"
   }
