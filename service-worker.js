@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/navgurukul-web/precache-manifest.26df669206e495fb915081202f581eaf.js"
+  "/navgurukul-web/precache-manifest.cfd0ecc45b56e59c3a384004f368f14c.js"
 );
 
 self.addEventListener('message', (event) => {
