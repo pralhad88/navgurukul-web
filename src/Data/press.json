@@ -1,0 +1,23 @@
+[
+    {
+        "press": "The Better India",
+        "logo": "/images/LogoOfpress/thebetterindia.jpeg",
+        "link":"https://www.thebetterindia.com/102699/navgurukul-skilling-underprivileged-delhi-computer-engineering-jobs/"
+    },
+    {
+        "press": "Times of India",
+        "logo": "/images/LogoOfpress/timesofindia.jpg",
+        "link":"https://timesofindia.indiatimes.com/home/sunday-times/how-a-gurukul-for-coders-is-changing-lives/articleshow/60896051.cms"
+    },
+    {
+        "press": "The Logical Indian",
+        "logo": "/images/LogoOfpress/thelogicalindian.png",
+        "link":"https://thelogicalindian.com/story-feed/get-inspired/navgurukul/"
+    },
+    {
+        "press": "Quartz",
+        "logo": "/images/LogoOfpress/quartz.jpg",
+        "link":"https://qz.com/1086297/iit-grads-no-its-the-school-dropouts-who-are-hot-property-in-indian-it-now/"
+    }
+
+]

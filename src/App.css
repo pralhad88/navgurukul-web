@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+
+}
+body{
+  font-family:"Open Sans", sans-serif!important;
 }
 
 .App-logo {
@@ -30,4 +34,119 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* team card --------------------------------------------*/
+p{
+  color:#444747!important;
+}
+.card{
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+}
+nav{
+  background:#45526e; /*nav bar color --------------------*/
+
+}
+.p-none {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0px!important;
+}
+.innernav{
+  box-shadow:none!important;
+}
+
+/* header ---------------------------------------------------------------------------------------- */
+.flex-end{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    height:250px;
+    color:black;
+    font-weight:bolder;
+}
+.bgheader{
+  margin-top:0px;
+  background-repeat:no-repeat;
+  background-size: 100%;
+  opacity: 0.8;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.slidercircle{
+  width: 70px;
+  height: 55px;
+  border-radius: 50%;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  /* position: absolute; */
+  top: 40%;
+  /* z-index: 1; */
+  justify-content: center;
+  right: 40px;
+  cursor: pointer;
+}
+
+
+
+.flex-end > button{
+  height:50px;
+  width:25px;
+  cursor: pointer;
+  color: white;
+  box-shadow:none;
+}
+.flex-end >strong:hover{
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+/* typewrite css in header----------------- */
+.typewriter {
+display: inline-block;
+}
+
+.typewriter-text {
+  display: inline-block;
+  overflow: hidden;
+  /* letter-spacing: 2px; */
+  animation: typing 5s steps(30, end), blink .75s step-end infinite;
+  white-space: nowrap;
+  font-size: 30px;
+  font-weight: 700;
+  box-sizing: border-box;
+  color: #007bff;
+}
+
+@keyframes typing {
+  from { 
+      width: 0% 
+  }
+  to { 
+      width: 100% 
+  }
+}
+
+@keyframes blink {
+  from, to { 
+      border-color: transparent 
+  }
+  50% { 
+      border-color: orange; 
+  }
+}
+
+/* supported---------------------------------------------------------------------------------------- */
+.suppored{
+  display:flex;
+  align-items:center!important;
+}
+
+/* footer---------------------------------------------------------------------------------------- */
+.footertext{
+  color:white!important;
 }

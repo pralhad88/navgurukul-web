@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Accenture",
+        "logo":"/images/supporters/accenture.PNG",
+        "link":"https://www.accenture.com/in-en"
+    },
+    {
+        "name":"Social Alpha",
+        "logo":"/images/supporters/Social-Alpha-Logo.png",
+        "link":"http://socialalpha.in/"
+    },
+    {
+        "name":"N/core",
+        "logo":"/images/supporters/N-Core.png",
+        "link":"http://ncore.thenudge.org/"
+    },
+    {
+        "name":"UnLtd india",
+        "logo":"/images/supporters/unltdindia.jpg",
+        "link":"http://unltdindia.org/"
+    },
+    {
+        "name":"dunnhumby",
+        "logo":"/images/supporters/dunnhumby.png",
+        "link":"http://dunnhumby.com/"
+    }
+]
