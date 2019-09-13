@@ -21,7 +21,7 @@ class Teams extends Component {
                                 return <MDBCol key = {index} lg="3" className="card" style={{margin:'20px'}} >
                                             <MDBView className="overlay z-depth-1" waves>
                                                 <img
-                                                src={ require(Teamdata.img)}
+                                                src={Teamdata.img}
                                                 alt={Teamdata.name}
                                                 className="img-fluid"
                                                 />
